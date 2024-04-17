@@ -14,7 +14,7 @@ From both of these observations, you can determine that the relationship is Y=3X
 
 This is almost exactly how you would use code to train a model, known as a neural network, to spot the patterns in the data!
 
-You use data to train the neural network! By feeding it with a set of Xs and a set of Ys, it should be able to figure out the relationship between them.<br><br>
+You use data to train the neural network! By feeding it with a set of Xs and a set of Ys, it should be able to figure out the relationship between them.<br>
 
 <p>Requirements📐</p><br>
 
@@ -28,7 +28,6 @@ pip install ---upgrade protobuf
 pip install --upgrade tensorflow
 ```
 
-<br>
 <p>Check if TensorFlow is installed. Run the following command in the terminal:</p><br>
 
 ```sh
