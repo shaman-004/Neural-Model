@@ -33,6 +33,5 @@ pip install --upgrade tensorflow
 ```sh
 python -c "import tensorflow;print(tensorflow.__version__)"
 ```
-<p>Output👁️:</p>
-![image](Output.png)
+
 
