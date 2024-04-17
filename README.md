@@ -6,9 +6,9 @@ Consider the following sets of numbers. Can you see the relationship between the
 | --- | --- | --- | --- | --- | --- | --- |
 | y   | -2  | 1   | 4   | 7   | 10  | 13  |
 <br>
-<p>As you read left to right, notice that the X value is increasing by 1 and the corresponding Y value is increasing by 3. So, the relationship should be Y=3X plus or minus some value.
+<p>As you read left to right, notice that the X value is increasing by 1 and the corresponding Y value is increasing by 3. So, the relationship should be Y=3X plus or minus some value.</p>
 
-Then, take look at the 0 on X and see that the corresponding Y value is 1.
+<p>Then, take look at the 0 on X and see that the corresponding Y value is 1.
 
 From both of these observations, you can determine that the relationship is Y=3X+1.
 
@@ -16,7 +16,7 @@ This is almost exactly how you would use code to train a model, known as a neura
 
 You use data to train the neural network! By feeding it with a set of Xs and a set of Ys, it should be able to figure out the relationship between them.</p><br>
 
-<p>Requirements📐</p><br>
+<p>Requirements📐:</p><br>
 
 ```sh
 pip install google-cloud-logging
