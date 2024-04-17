@@ -33,5 +33,6 @@ pip install --upgrade tensorflow
 ```sh
 python -c "import tensorflow;print(tensorflow.__version__)"
 ```
-
+<p>Output👁️:</p>
+![image](https://github.com/shaman-004/Neural-Model/assets/93532515/ff1f2288-e1d9-40bd-b0d2-87bd5bfc38f7)
 
