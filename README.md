@@ -2,36 +2,9 @@
 First Neural Network model working with relationships between x and y<br>
 
 Consider the following sets of numbers. Can you see the relationship between them?<br>
-x | -1 | 0 | 1 | 2 | 3 | 4 
+x | #-1 | #0 | #1 | #2 | #3 | #4 
 --- | --- | --- | --- |--- |---
 y | -2 | 1 | 4 | 7 | 10 | 13 
-X:
-
--1
-
-0
-
-1
-
-2
-
-3
-
-4
-
-Y:
-
--2
-
-1
-
-4
-
-7
-
-10
-
-13
 
 As you read left to right, notice that the X value is increasing by 1 and the corresponding Y value is increasing by 3. So, the relationship should be Y=3X plus or minus some value.
 
